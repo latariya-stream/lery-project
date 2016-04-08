@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* Заголовки */
+
+.header{
+  font-family: Arial;
+  font-size: 24px;
+  color: #3e454b;
+}
